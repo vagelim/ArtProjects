@@ -1,5 +1,3 @@
 Random explorations into artistic creations
 
-**grocery_bot.py** - 
->
-this script takes as input a string and returns valid products that contain the input string as a substring. Notes: Case-sensitive and will return words not found if no product contains an input word as a substring.
+**grocery_bot.py** - this script takes as input a string and returns valid products that contain the input string as a substring. Notes: Case-sensitive and will return words not found if no product contains an input word as a substring.
